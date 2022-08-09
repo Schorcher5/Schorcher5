@@ -4,9 +4,7 @@
 - 💞️ I’m looking to learn more about programmming on git_hub and hoping to recieve feedback on my code
 - 📫 How to reach me ... yeah just send messages on git_hub, not putting too much personal info on here
 
-summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
+<h2>My Github Stats</h2>
 <br>
 
 <p align = "center">
