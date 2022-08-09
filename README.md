@@ -31,3 +31,19 @@
   <img align="left" height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Schorcher5&show_icons=true&count_private=true&theme=github_dark&layout=compact&langs_count=10">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>:calling: Feel free to reach out to me at these places!</h2>
+<br>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/) 
+
+![](https://visitor-badge.glitch.me/badge?page_id=Schorcher5.Schorcher5)
+
+
