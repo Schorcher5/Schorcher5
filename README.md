@@ -1,3 +1,8 @@
+
+<h1>Hi, I'm Joaquin Cisneros</h1>
+
+<h2>I'm a Computer Science Student at the University of Victoria and an aspriing Software Developer</h2>
+
 - 👋 Hi, I’m @Joaquin_Cisneros
 - 👀 I’m interested in anime, video games, and philosophy
 - 🌱 I’m currently learning programing, writing, Spanish and how to live life 
