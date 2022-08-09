@@ -2,11 +2,11 @@
 <h1>Hi, I'm Joaquin Cisneros</h1>
 <h2>I'm a Computer Science Student at the University of Victoria and a Software Developer</h2>
 
-- 👋 Hi, I’m @Joaquin_Cisneros
-- 👀 I’m interested in anime, video games, and philosophy
-- 🌱 I’m currently learning programing, writing, Spanish and how to live life 
-- 💞️ I’m looking to learn more about programmming on git_hub and hoping to recieve feedback on my code
-- 📫 How to reach me ... yeah just send messages on git_hub, not putting too much personal info on here
+- I’m currently learning programing, math, writing, Spanish and how to live life 
+- Right now I am trying to learn more about linux and its kernel
+- My biggest goal however, is to make a compiler and eventually a basic programming language for fun
+- Also plan on contributing more to open source projects
+- And of course, practicing coding questions
 
 <h2>My Github Stats</h2>
 <br>
