@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Joaquin Cisneros</h1>
-<h2>I'm a Computer Science Student at the University of Victoria and a Software Developer</h2>
+<h3>I'm a Computer Science Student at the University of Victoria and a Software Developer</h3>
 
 - I’m currently learning programing, math, writing, Spanish and how to live life 
 - Right now I am trying to learn more about linux and its kernel
