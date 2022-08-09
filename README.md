@@ -11,6 +11,6 @@ summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Schorcher5&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Schorcher5&">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Schorcher5&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
 </p>
 
