@@ -16,10 +16,18 @@
   <img align="left" height="150" src = "https://github-readme-streak-stats.herokuapp.com/?user=Schorcher5&show_icons=true&count_private=true&theme=github-dark-blue&border=FFFFFF&stroke=3F73DD&sideNums=FFFFFF">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h2>What Languages I use</h2>
 <br>
 
 <p align = "center">
-  <img align="left" height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Schorcher5&show_icons=true&count_private=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10">
+  <img align="left" height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Schorcher5&show_icons=true&count_private=true&theme=github_dark&layout=compact&langs_count=10">
 </p>
 
