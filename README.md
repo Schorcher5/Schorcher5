@@ -4,7 +4,13 @@
 - 💞️ I’m looking to learn more about programmming on git_hub and hoping to recieve feedback on my code
 - 📫 How to reach me ... yeah just send messages on git_hub, not putting too much personal info on here
 
-<!---
-Schorcher5/Schorcher5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</h2> </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
+</p>
+
