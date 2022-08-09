@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Joaquin Cisneros</h1>
-<h3>I'm a Computer Science Student at the University of Victoria and a Software Developer</h3>
+<h3>:school: I'm a Computer Science Student at the University of Victoria and a Software Developer</h3>
 
 - I’m currently learning programing, math, writing, Spanish and how to live life 
 - Right now I am trying to learn more about linux and its kernel
@@ -8,7 +8,7 @@
 - Also plan on contributing more to open source projects
 - And of course, practicing coding questions
 
-<h2>My Github Stats</h2>
+<h2>:rocket: My Github Stats</h2>
 <br>
 
 <p align = "center">
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<h2>What Languages I use</h2>
+<h2>:hammer: What I've Done</h2>
 <br>
 
 <p align = "center">
