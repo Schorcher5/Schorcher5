@@ -10,7 +10,7 @@ summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Schorcher5&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Schorcher5&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img align="left" height="150" src = "https://github-readme-stats.vercel.app/api?username=Schorcher5&show_icons=true&count_private=true&theme=github_dark">
+  <img align="left" height="150" src = "https://github-readme-streak-stats.herokuapp.com/?user=Schorcher5&show_icons=true&count_private=true&theme=github_dark">
 </p>
 
