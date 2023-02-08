@@ -3,9 +3,9 @@
 <h3>:school: I'm a Computer Science Student at the University of Victoria and a Software Developer</h3>
 
 - I’m currently learning programing, math, writing, Spanish and how to live life 
-- Right now I am trying to learn more about linux and its kernel
+- Right now I am trying to learn more about c++ and machine learning
 - My biggest goal however, is to make a compiler and eventually a basic programming language for fun
-- Also plan on contributing more to open source projects
+- Also plan on contributing more to open source projects 
 - And of course, practicing coding questions
 
 <h2>:rocket: My Github Stats</h2>
