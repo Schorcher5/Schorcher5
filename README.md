@@ -44,7 +44,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaquin-cisneros-271256225/) 
 [<img src="https://img.shields.io/badge/devpost-%230077B5.svg?&style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/Schorcher5?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
-[<img src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/JoaquinCisneros/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Schorcher5.Schorcher5)
 
